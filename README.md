@@ -4,7 +4,7 @@
  
 ## I'm a traveler, developer, reader, and crypto enthusiast!
 - 👀 I’m interested in... becoming a software developer/engineer
-- 🌱 I’m currently learning...  <a href="https://spring.io/projects/spring-boot"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"></a>, Spanish.
+- 🌱 I’m currently learning... JavaScript (Angular)
   
 - 👯 I’m looking to collaborate on... anything and everything Java related
 - 🔭 2022 Goals: Land my first full-time position as a software developer/engineer
