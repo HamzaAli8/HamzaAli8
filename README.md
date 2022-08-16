@@ -24,7 +24,7 @@
   &emsp;
   <a href="https://www.jetbrains.com/idea/"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ-9e04b8?style=for-the-badge&logo=intellijidea&logoColor=white"></a>
   &emsp;
- <a href="https://www.jetbrains.com/idea/"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ-9e04b8?style=for-the-badge&logo=intellijidea&logoColor=white"></a>
+ <a href="https://aws.amazon.com/"><img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
   &emsp;
  <a href="https://www.jetbrains.com/idea/"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ-9e04b8?style=for-the-badge&logo=intellijidea&logoColor=white"></a>
   &emsp;
@@ -44,6 +44,6 @@
 
 
 <!---
-brandonkargus/brandonkargus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HamzaAli8/HamzaALi8 ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
