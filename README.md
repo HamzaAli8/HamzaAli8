@@ -11,6 +11,7 @@
 - ⚡Fun Facts: I am fluent in 3 languages and I have travelled to over 20 countries around the world!
  
 ### My Tech Stack:
+ 
  <a href="https://www.java.com/en/">
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   </a>
