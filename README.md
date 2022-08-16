@@ -4,18 +4,16 @@
  
 ## I'm a traveler, developer, reader, and crypto enthusiast!
 - 👀 I’m interested in... becoming a software developer/engineer
-- 🌱 I’m currently learning... Angular <a href= https://angular.io
-    <img alt="Angular" src=	https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white/>
-  </a>
-  
+- 🌱 I’m currently learning... <a href="https://angular.io"><img alt="Angular" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=whit"></a>
+
 - 👯 I’m looking to collaborate on... anything and everything Java related
 - 🔭 2022 Goals: Land my first full-time position as a software developer/engineer
 - ⚡Fun Facts: I am fluent in 3 languages and I have travelled to over 20 countries around the world!
  
 ### My Tech Stack:
  
- <a href= https://angular.io/>
-    <img alt="Java" src=	https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white/>
+ <a href="https://www.java.com/en/">
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-025c88?style=for-the-badge&logo=mysql&logoColor=white"></a>
