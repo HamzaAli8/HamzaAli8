@@ -26,10 +26,13 @@
   &emsp;
  <a href="https://aws.amazon.com/"><img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
   &emsp;
- <a href="https://www.jetbrains.com/idea/"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ-9e04b8?style=for-the-badge&logo=intellijidea&logoColor=white"></a>
+ <a href="https://www.postgresql.org/"><img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
   &emsp;
   <a href="https://en.wikipedia.org/wiki/HTML5"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"></a>
   &emsp;
+  <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
+  &emsp;
+ 
  
  
 
