@@ -4,7 +4,9 @@
  
 ## I'm a traveler, developer, reader, and crypto enthusiast!
 - 👀 I’m interested in... becoming a software developer/engineer
-- 🌱 I’m currently learning... <img alt="Angular" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+- 🌱 I’m currently learning... Angular <a href= https://angular.io/>
+    <img alt="Java" src=	https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white/>
+  </a>
   
 - 👯 I’m looking to collaborate on... anything and everything Java related
 - 🔭 2022 Goals: Land my first full-time position as a software developer/engineer
@@ -12,7 +14,7 @@
  
 ### My Tech Stack:
  
- <a href="https://www.java.com/en/">
+ <a href= https://angular.io/>
     <img alt="Java" src=	https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white/>
   </a>
   &emsp;
