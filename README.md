@@ -2,7 +2,7 @@
 <p align="center"> 
  
  
-## I'm a traveler, developer, reader, and Crypto enthusiast!
+## I'm a traveler, developer, reader, and crypto enthusiast!
 - 👀 I’m interested in... becoming a software developer/engineer
 - 🌱 I’m currently learning... <a href="https://angular.io"><img alt="Angular" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=whit"></a>
 
