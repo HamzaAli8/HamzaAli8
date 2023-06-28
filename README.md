@@ -4,7 +4,7 @@
  
 ## I'm a traveler, developer, reader, and crypto enthusiast!
 - 👀 I’m currently a Java devloper and looking to expand my horizons
-- 🌱 I’m currently learning... <a href="https://angular.io"><img alt="Angular" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=whit"></a>
+- 🌱 I’m currently learning... <a href="https://react.dev/"><img alt="Angular" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"></a>
 
 - 👯 I’m looking to collaborate on... anything and everything Java related
 - 🔭 20223 Goals: Work on becoming a full stack developer by learning a front-end language
