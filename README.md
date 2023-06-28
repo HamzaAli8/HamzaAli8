@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning... <a href="https://angular.io"><img alt="Angular" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=whit"></a>
 
 - 👯 I’m looking to collaborate on... anything and everything Java related
-- 🔭 2022 Goals: Land my first full-time position as a software developer/engineer
+- 🔭 20223 Goals: Work on becoming a full stack developer by learning a front-end language
 - ⚡Fun Facts: I am fluent in 3 languages and I have travelled to over 20 countries around the world!
  
 ### My Tech Stack:
