@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on... anything and everything Java related
 - 🔭 20223 Goals: Work on becoming a full stack developer by learning a front-end language
-- ⚡Fun Facts: I am fluent in 3 languages and I have travelled to over 20 countries around the world!
+- ⚡Fun Facts: I am fluent in 3 languages and I have travelled to over 25 countries around the world!
  
 ### My Tech Stack:
  
