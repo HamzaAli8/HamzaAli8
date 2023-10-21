@@ -2,7 +2,7 @@
 <p align="center"> 
  
  
-## I'm a traveler, developer, reader, and crypto enthusiast!
+## I'm a traveler, developer, reader, and gym rat!
 - 👀 I’m currently a Java devloper and looking to expand my horizons
 - 🌱 I’m currently learning... <a href="https://react.dev/"><img alt="Angular" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"></a>
 
